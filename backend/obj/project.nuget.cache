@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y8BzAo8abVM=",
+  "success": true,
+  "projectFilePath": "/Users/hey/Desktop/visa/ai-resume-reviewer/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/hey/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/Users/hey/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "'Microsoft.OpenApi' 2.0.0 패키지에 알려진 높음 심각도 취약성인 https://github.com/advisories/GHSA-v5pm-xwqc-g5wc이(가) 있습니다.",
+      "projectPath": "/Users/hey/Desktop/visa/ai-resume-reviewer/backend/backend.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/hey/Desktop/visa/ai-resume-reviewer/backend/backend.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
