@@ -6,8 +6,14 @@
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/backend.runtimeconfig.json
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/backend.dll
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/backend.pdb
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/Azure.AI.OpenAI.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/Azure.Core.dll
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/OpenAI.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/System.ClientModel.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/System.Memory.Data.dll
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/backend.csproj.AssemblyReference.cache
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/rpswa.dswa.cache.json
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/backend.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +22,7 @@
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/backend.csproj.CoreCompileInputs.cache
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/backend.MvcApplicationPartsAssemblyInfo.cs
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/backend.sourcelink.json
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
@@ -31,3 +38,13 @@
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/backend.pdb
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/backend.genruntimeconfig.cache
 /Users/hey/Desktop/visa/ai-resume-reviewer/backend/obj/Debug/net10.0/ref/backend.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/DocumentFormat.OpenXml.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/DocumentFormat.OpenXml.Framework.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/UglyToad.PdfPig.Core.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/UglyToad.PdfPig.Fonts.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/UglyToad.PdfPig.Package.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/UglyToad.PdfPig.Tokenization.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/UglyToad.PdfPig.Tokens.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/UglyToad.PdfPig.dll
+/Users/hey/Desktop/visa/ai-resume-reviewer/backend/bin/Debug/net10.0/System.IO.Packaging.dll
